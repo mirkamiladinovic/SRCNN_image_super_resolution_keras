@@ -1,0 +1,15 @@
+-low resolution image as an input
+->patch extraction and representation
+-64 feature maps
+->non-linear mapping
+-32 feature maps 
+->reconstruction
+-high resolution image
+
+Operations:
+
+1. pre-processing
+2. feature extraction
+3. non-linear mapping
+4. reconstruction
+
