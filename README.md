@@ -22,7 +22,7 @@ SRCNN je jednostavan konvolucioni neuronski model dizajniran za povećanje rezol
 - NumPy
 - Matplotlib
 
-Instalacija zavisnosti (preporučeno u virtuelnom okruženju):
+Instalacija zahtjeva:
 
 ```bash
 pip install -r requirements.txt
