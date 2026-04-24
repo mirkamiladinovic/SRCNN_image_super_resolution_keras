@@ -13,7 +13,7 @@ Ovaj repozitorijum sadrži implementaciju Super-Resolution Convolutional Neural 
 
 SRCNN je jednostavan konvolucioni neuronski model dizajniran za povećanje rezolucije slika. Radi tako što „rekonstruiše“ visokorezolutne slike iz njihovih niskorezolutnih verzija.
 
-#### ⚙️ Zahtevi
+#### ⚙️ Zahtjevi
 
 - Python 3.x
 - Keras
